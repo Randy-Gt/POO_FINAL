@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Randy pri pra",
+    "salario": 3500000.0,
+    "departamento": "Ventas"
+  },
+  {
+    "id": 2,
+    "nombre": "will",
+    "salario": 4200000.0,
+    "departamento": "IT"
+  },
+  {
+    "id": 3,
+    "nombre": "nela",
+    "salario": 2800000.0,
+    "departamento": "Ventas"
+  },
+  {
+    "id": 4,
+    "nombre": "anthony",
+    "salario": 5000000.0,
+    "departamento": "IT"
+  },
+  {
+    "id": 5,
+    "nombre": "EL TENA",
+    "salario": 3000000.0,
+    "departamento": "Recursos Humanos"
+  }
+]

@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "TALLER\\src\\libros"
+        "TALLER/src/libros",
+        "TALLER/src/empleados"
     ],
     "java.project.referencedLibraries": [
         "TALLER\\src\\libros\\libros\\lib\\gson-2.10.1.jar"
