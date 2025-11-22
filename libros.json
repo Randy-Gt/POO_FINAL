@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cien Años de Soledad",
+    "precio": 45000.0,
+    "genero": "Ficción"
+  },
+  {
+    "id": 2,
+    "titulo": "El Principito",
+    "precio": 25000.0,
+    "genero": "Infantil"
+  },
+  {
+    "id": 3,
+    "titulo": "1984",
+    "precio": 38000.0,
+    "genero": "Ficción"
+  },
+  {
+    "id": 4,
+    "titulo": "Harry Potter",
+    "precio": 52000.0,
+    "genero": "Fantasía"
+  },
+  {
+    "id": 5,
+    "titulo": "Don Quijote",
+    "precio": 35000.0,
+    "genero": "Clásico"
+  }
+]
